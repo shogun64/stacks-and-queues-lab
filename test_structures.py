@@ -1,6 +1,6 @@
 import unittest
 import random
-from queue import Queue
+from queues import Queue
 from stack import is_valid_parentheses
 
 class TestQueueLab(unittest.TestCase):
